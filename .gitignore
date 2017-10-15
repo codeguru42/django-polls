@@ -108,3 +108,4 @@ venv.bak/
 *.iml
 out
 gen
+*.sqlite3
